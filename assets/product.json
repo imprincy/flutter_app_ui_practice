@@ -1,0 +1,65 @@
+{
+  "occasion": [
+    {
+      "title": "Engagement"
+    },
+    {
+      "title": "Wedding"
+    },
+    {
+      "title": "Anniversary"
+    },
+    {
+      "title": "Birthday"
+    },
+    {
+      "title": "Gifting"
+    },
+    {
+      "title": "Others"
+    }
+  ],
+  "purchase": [
+    {
+      "title": "Spouse"
+    },
+    {
+      "title": "Family"
+    },
+    {
+      "title": "Friends"
+    },
+    {
+      "title": "Kids"
+    },
+    {
+      "title": "Self"
+    },
+    {
+      "title": "Others"
+    }
+  ],
+  "product": [
+    {
+      "title": "Gold"
+    },
+    {
+      "title": "Diamond"
+    },
+    {
+      "title": "Earring"
+    },
+    {
+      "title": "Rings"
+    },
+    {
+      "title": "Collections"
+    },
+    {
+      "title": "Wedding"
+    },
+    {
+      "title": "Gifting"
+    }
+  ]
+}

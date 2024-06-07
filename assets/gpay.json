@@ -1,0 +1,115 @@
+{
+  "transaction": [
+    {
+      "image": "https://images.pexels.com/photos/963278/pexels-photo-963278.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "title": "Scan any QR code"
+    },
+    {
+      "image": "https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "title": "Pay Contacts"
+    },
+    {
+      "image": "https://images.pexels.com/photos/4004374/pexels-photo-4004374.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "title": "Pay Phone number"
+    },
+    {
+      "image": "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "title": "Bank Transfer"
+    },
+    {
+      "image": "https://images.pexels.com/photos/459277/pexels-photo-459277.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "title": "Pay UPI ID or number"
+    },
+    {
+      "image": "https://images.pexels.com/photos/262713/pexels-photo-262713.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "title": "Self transfer"
+    },
+    {
+      "image": "https://images.pexels.com/photos/262713/pexels-photo-262713.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "title": "Pay bills"
+    },
+    {
+      "image": "https://images.pexels.com/photos/220072/pexels-photo-220072.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "title": "Mobile recharge"
+    }
+  ],
+  "peopleRecord": [
+    {
+      "subtitle": "Self transfer"
+    },
+    {
+      "subtitle": "Shivam"
+    },
+    {
+      "subtitle": "Pankaj"
+    },
+    {
+      "subtitle": "Lakshya"
+    },
+    {
+      "subtitle": "mridula"
+    },
+    {
+      "subtitle": "Harisha"
+    },
+    {
+      "subtitle": "Sunita Sharma"
+    },
+    {
+      "subtitle": "Morer"
+    }
+  ],
+  "business": [
+    {
+      "name": "Blinkit"
+    },
+    {
+      "name": "Narsinga"
+    },
+    {
+      "name": "Parvatha"
+    },
+    {
+      "name": "More"
+    }
+  ],
+  "recharges": [
+    {
+      "name": "DTH/Cable Tv"
+    },
+    {
+      "name": "Electricity"
+    },
+    {
+      "name": "Postpaid mobile"
+    },
+    {
+      "name": "Broadband/Landline"
+    }
+  ],
+  "offer": [
+    {
+      "name": "Rewards"
+    },
+    {
+      "name": "Offers"
+    },
+    {
+      "name": "Referrals"
+    },
+    {
+      "name": "Tez Shots"
+    }
+  ],
+  "tile": [
+    {
+      "title": "Check your CIBIL score for free"
+    },
+    {
+      "title": "See transaction history"
+    },
+    {
+      "title": "Check bank balance"
+    }
+  ]
+}
